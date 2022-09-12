@@ -1,4 +1,4 @@
-<?php include 'inc/header.php'; ?>
+<?php require 'inc/header.php'; ?>
 
       <main role="main" class="inner cover">
         <h1 class="cover-heading">Cover your page.</h1>
@@ -8,4 +8,4 @@
         </p>
       </main>
 
-<?php include 'inc/footer.php'; ?>
+<?php require 'inc/footer.php'; ?>
